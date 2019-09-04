@@ -24,7 +24,7 @@ You can do wireframing [online](https://wireframe.cc/) or [by hand](./wireframe_
 
 ## Setup
 
-1. `git pull upstream master` to get this morning' starter code.
+1. Fork and clone!
 2. Inside your `morning_exercise` folder for today, open the folder called `vssl_mockup` in VS Code.
 3. Inside the `vssl_mockup` folder, create an `index.html` file.  Make sure to create it on the same level as the `img` folder and `mockup.png`.  
 4. Add the boilerplate to your html file.
@@ -47,5 +47,6 @@ Create a `style.css` file and link it to `index.html` and get started on the CSS
 Below are some resources to help you with positioning.
 
 - [A Complete Guide to Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) <br>
+- [A Complete Guide to Grid (CSS Tricks)](https://css-tricks.com/getting-started-css-grid/) <br>
 - [Equidistance Spacing- examples of failed attempts and wins](https://css-tricks.com/equidistant-objects-with-css/)
 - [Google Fonts](https://fonts.google.com/)
