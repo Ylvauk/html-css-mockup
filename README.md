@@ -20,7 +20,9 @@ The wireframe usually lacks typographic style, color, or graphics, since the mai
 
 [A Beginner’s Guide to Wireframing](https://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399)
 
-You can do wireframing [online](https://wireframe.cc/) or [by hand](./wireframe_byhand.jpg).
+You can do wireframing [online](https://wireframe.cc/) or [by hand](./wireframe_byhand.jpg)
+[another hand example](./kennys_handwireframe.jpg).
+[another hand example](./kennys_handwireframe2.jpg).
 
 ## Setup
 
@@ -47,6 +49,6 @@ Create a `style.css` file and link it to `index.html` and get started on the CSS
 Below are some resources to help you with positioning.
 
 - [A Complete Guide to Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) <br>
-- [A Complete Guide to Grid (CSS Tricks)](https://css-tricks.com/getting-started-css-grid/) <br>
+- [Getting Started with CSS Grid (CSS Tricks)](https://css-tricks.com/getting-started-css-grid/) <br>
 - [Equidistance Spacing- examples of failed attempts and wins](https://css-tricks.com/equidistant-objects-with-css/)
 - [Google Fonts](https://fonts.google.com/)
